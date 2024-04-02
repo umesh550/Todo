@@ -1,7 +1,6 @@
 import { TextField } from "@mui/material";
 import Button from "@mui/material/Button";
 import AddCircleOutlineIcon from "@mui/icons-material/AddCircleOutline";
-import React from "react";
 
 const TaskInput = ({ handleAddTask, newTask, setNewTask }) => {
   return (
